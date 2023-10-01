@@ -14,9 +14,12 @@ and talks.
 - [Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)
 - [Design Systems: Useful Examples and Resources](https://www.smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/#design-system-naming-conventions)
 - [Naming in Nord Design System](https://nordhealth.design/naming/#colors) `n-color-{role}-{modifier}-{theme}`
+
 - [Naming in Polaris Design System](https://polaris.shopify.com/design/colors#token-names) `--p-color-{element}-{role}-{variant}-{state}` (`--p-color-bg-critical-subdued-hover`)
 <img src="https://polaris.shopify.com/images/design/colors/color-variants@2x.png" height="400" />
+
 - [Naming in Adobe Spectrum Design System](https://spectrum.adobe.com/page/design-tokens/#How-Spectrum-names-design-tokens) `--spectrum-alias-text-color-invalid`
+
 - [Naming in Atlassian Design System](https://atlassian.design/components/tokens/all-tokens#color-text)
 <img src="https://images.ctfassets.net/8j5aqoy0ts8s/6Ns6503lSojb52PQDRPut5/4bc93c5316916f7c15f145624db43b39/tokens_in_screen.png" height="400" />
 
