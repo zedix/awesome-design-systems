@@ -83,10 +83,10 @@ $color-text-label: unset;
 ```css
 --ds-color-text-primary-default: #222222;
 --ds-color-text-secondary-default: #626b79;
---ds-color-background-lightest:	#ffffff
---ds-color-background-lighter:	#f8f8f8
---ds-color-background-darker:	#01426a
---ds-color-background-darkest: #00274a
+--ds-color-background-lightest:	#ffffff;
+--ds-color-background-lighter:	#f8f8f8;
+--ds-color-background-darker:	#01426a;
+--ds-color-background-darkest: #00274a;
 ```
 
 - [Naming in Twilio Paste Design System](https://paste.twilio.design/foundations/colors#background-colors)
@@ -227,7 +227,7 @@ md.sys.typescale.display-large.font
 md.sys.elevation.level1
 ```
 
-- [Namin in Vitamin](https://github.com/Decathlon/vitamin-web/blob/main/packages/sources/css/src/design-tokens/src/themes/core-light.css)
+- [Naming in Vitamin](https://github.com/Decathlon/vitamin-web/blob/main/packages/sources/css/src/design-tokens/src/themes/core-light.css)
 
 ```css
 /* Background */
@@ -247,6 +247,11 @@ md.sys.elevation.level1
 /* Borders */
 --vtmn-semantic-color_border-primary: unset;
 ```
+
+- [Naming in Captiv8](https://medium.com/@slava.karablikov/implementing-color-design-tokens-practical-guide-2ee1d46a1392)
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*pAQVP7CcKIvmsevXbh9tIg.png" height="400" />
+
+
 
 ## Design Systems Documentation
 
