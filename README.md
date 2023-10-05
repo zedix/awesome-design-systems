@@ -104,6 +104,7 @@ $color-border-destructive: unset;
 
 - [Naming in Polaris Design System](https://polaris.shopify.com/design/colors#token-names) `--p-color-{element}-{role}-{variant}-{state}` (`--p-color-bg-critical-subdued-hover`)
 <img src="https://polaris.shopify.com/images/design/colors/color-variants@2x.png" height="400" />
+<img src="https://polaris.shopify.com/images/design/typography/type-responsive-styles@2x.png" height="400" />
 
 ```css
 --p-color-text-brand-on-bg-fill-active: #ccc;
@@ -174,6 +175,10 @@ $color-border-destructive: unset;
 --pc-button-color-hover: var(--p-color-bg-primary-hover);
 --pc-button-color-active: var(--p-color-bg-primary-active);
 --pc-button-color-depressed: var(--p-color-bg-primary-active);
+```
+
+```
+'headingXs' | 'headingSm' | 'headingMd' | 'headingLg' | 'headingXl' | 'heading2xl' | 'heading3xl' | 'heading4xl' | 'bodySm' | 'bodyMd' | 'bodyLg'
 ```
 
 - [Naming in Adobe Spectrum Design System](https://spectrum.adobe.com/page/design-tokens/#How-Spectrum-names-design-tokens) `--spectrum-alias-text-color-invalid`
