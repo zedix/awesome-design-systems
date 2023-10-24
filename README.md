@@ -10,10 +10,17 @@
 and talks.
 - [Design Systems For Figma](https://www.designsystemsforfigma.com/) Curated by Josh Cusick, the site is a growing repository of freely available Figma kits
 - [Design Systems: Useful Examples and Resources](https://www.smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/)
+- [The Ultimate Design Systems Resources List](https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/)
+
+## Pre-built Design Systems / UI Kits
+
+- [Reshaped](https://reshaped.so/) Design System in React & Figma
+- [Untitled UI](https://www.untitledui.com/)
 
 ## Design Tokens
 
 - [Awesome Design Tokens](https://github.com/sturobson/Awesome-Design-Tokens)
+- [Design Tokens Guide](https://thedesignsystem.guide/design-tokens)
 
 ## Design Tokens Naming
 
@@ -262,6 +269,7 @@ md.sys.elevation.level1
 
 - [Zeroheight](https://zeroheight.com/showcase/)
   - [Decathlon Example](https://www.decathlon.design/726f8c765/p/75e137-digital-overview)
+  - [Doctolib Example](https://oxygen.doctolib.design/60b411768/p/77fd2d-doctolib-design-system)
 - [Backlight](https://backlight.dev/) Design systems, code-side
   - [Best design system documentation sites](https://backlight.dev/mastery/the-best-design-system-documentation-sites)
 - [Specify](https://specifyapp.com/)
@@ -271,3 +279,12 @@ md.sys.elevation.level1
   - [Chromatic](https://www.chromatic.com)
     - Chromatic is a cloud-based toolchain for Storybook that helps teams ship UI components faster. It’s made by the team behind Storybook.
 - [Tools](https://designsystemsrepo.com/tools)
+
+
+## Articles
+
+- [Ship Faster by Building Design Systems Slower | Big Medium](https://bradfrost.com/blog/link/ship-faster-by-building-design-systems-slower-big-medium/)
+
+## Resources
+
+- [ROI Calculator](https://www.knapsack.cloud/calculator)
