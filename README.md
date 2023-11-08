@@ -22,6 +22,10 @@ and talks.
 - [Awesome Design Tokens](https://github.com/sturobson/Awesome-Design-Tokens)
 - [Design Tokens Guide](https://thedesignsystem.guide/design-tokens)
 
+## Figma
+
+- [Synchronizing Figma variables with Design Tokens](https://medium.com/@NateBaldwin/synchronizing-figma-variables-with-design-tokens-3a6c6adbf7da)
+
 ## Design Tokens Naming
 
 - [Curtis, N. (2020). Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)
@@ -270,16 +274,21 @@ md.sys.elevation.level1
 - [Zeroheight](https://zeroheight.com/showcase/)
   - [Decathlon Example](https://www.decathlon.design/726f8c765/p/75e137-digital-overview)
   - [Doctolib Example](https://oxygen.doctolib.design/60b411768/p/77fd2d-doctolib-design-system)
-- [Backlight](https://backlight.dev/) Design systems, code-side
+- [Supernova](https://www.supernova.io/)
+  - [Documentation demo](https://youtu.be/0xOfPSqqgrQ?t=162)
+
+- [Backlight](https://backlight.dev/features#documentation) Design systems, code-side
   - [Best design system documentation sites](https://backlight.dev/mastery/the-best-design-system-documentation-sites)
 - [Specify](https://specifyapp.com/)
-- [Supernova](https://www.supernova.io/)
 - [Knapsack](https://www.knapsack.cloud/)
 - [Storybook](https://storybook.js.org/)
   - [Chromatic](https://www.chromatic.com)
     - Chromatic is a cloud-based toolchain for Storybook that helps teams ship UI components faster. It’s made by the team behind Storybook.
-- [Tools](https://designsystemsrepo.com/tools)
 
+## Tools
+
+- [Tools](https://designsystemsrepo.com/tools)
+- [Luro](https://luroapp.com/) Build and track your design system
 
 ## Articles
 
