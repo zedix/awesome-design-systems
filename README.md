@@ -21,9 +21,13 @@ and talks.
 
 - [Awesome Design Tokens](https://github.com/sturobson/Awesome-Design-Tokens)
 - [Design Tokens Guide](https://thedesignsystem.guide/design-tokens)
+- [Style Dictionnary](https://amzn.github.io/style-dictionary/)
+  - [Style-Dictionary-Play](https://www.style-dictionary-play.dev/)
+  - [Token Configurator](https://configurator.tokens.studio/)
 
 ## Figma
 
+- [Tokens Studio for Figma](https://tokens.studio/)
 - [Synchronizing Figma variables with Design Tokens](https://medium.com/@NateBaldwin/synchronizing-figma-variables-with-design-tokens-3a6c6adbf7da)
 
 ## Design Tokens Naming
@@ -275,11 +279,17 @@ md.sys.elevation.level1
   - [Decathlon Example](https://www.decathlon.design/726f8c765/p/75e137-digital-overview)
   - [Doctolib Example](https://oxygen.doctolib.design/60b411768/p/77fd2d-doctolib-design-system)
 - [Supernova](https://www.supernova.io/)
-  - [Documentation demo](https://youtu.be/0xOfPSqqgrQ?t=162)
+  - [Supernova Documentation demo](https://youtu.be/0xOfPSqqgrQ?t=162)
+  - [Supernova Figma variables import](https://learn.supernova.io/latest/releases/november-2023/figma-variables-and-a-big-surprise-9Kn05sqe)
+  - [Supernova Token Types](https://github.com/Supernova-Studio/export-helpers/blob/main/src/aux/Iterators.ts)
 
 - [Backlight](https://backlight.dev/features#documentation) Design systems, code-side
   - [Best design system documentation sites](https://backlight.dev/mastery/the-best-design-system-documentation-sites)
+
+
 - [Specify](https://specifyapp.com/)
+> Specify helps you generate design tokens that are always updated so you can transform them with Style Dictionary. Specify doesn’t replace Style Dictionary. It enhances it.
+
 - [Knapsack](https://www.knapsack.cloud/)
 - [Storybook](https://storybook.js.org/)
   - [Chromatic](https://www.chromatic.com)
@@ -296,4 +306,5 @@ md.sys.elevation.level1
 
 ## Resources
 
+- [Sidebar, Category: Design Systems](https://sidebar.io/category/design-systems/aPHNJ3vudGEiJ7rwP)
 - [ROI Calculator](https://www.knapsack.cloud/calculator)
