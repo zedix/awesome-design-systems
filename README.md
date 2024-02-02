@@ -1,5 +1,11 @@
 # Awesome Design Systems
 
+## Articles
+
+- [2024-01-09 — A Global Design System ](https://bradfrost.com/blog/post/a-global-design-system/)
+- [2023-10-23 — Ship Faster by Building Design Systems Slower | Big Medium](https://bradfrost.com/blog/link/ship-faster-by-building-design-systems-slower-big-medium/)
+- [2023-09-21 — The Design System Ecosystem ](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
+
 ## Collection of Design Systems (Showcases)
 
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
@@ -278,6 +284,7 @@ md.sys.elevation.level1
 - [Zeroheight](https://zeroheight.com/showcase/)
   - [Decathlon Example](https://www.decathlon.design/726f8c765/p/75e137-digital-overview)
   - [Doctolib Example](https://oxygen.doctolib.design/60b411768/p/77fd2d-doctolib-design-system)
+  - [GetAround Example](https://cobalt.getaround.tech)
 - [Supernova](https://www.supernova.io/)
   - [Supernova Documentation demo](https://youtu.be/0xOfPSqqgrQ?t=162)
   - [Supernova Figma variables import](https://learn.supernova.io/latest/releases/november-2023/figma-variables-and-a-big-surprise-9Kn05sqe)
@@ -300,9 +307,6 @@ md.sys.elevation.level1
 - [Tools](https://designsystemsrepo.com/tools)
 - [Luro](https://luroapp.com/) Build and track your design system
 
-## Articles
-
-- [Ship Faster by Building Design Systems Slower | Big Medium](https://bradfrost.com/blog/link/ship-faster-by-building-design-systems-slower-big-medium/)
 
 ## Resources
 
