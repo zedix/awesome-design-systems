@@ -3,6 +3,8 @@
 ## Articles
 
 - [2024-01-09 — A Global Design System ](https://bradfrost.com/blog/post/a-global-design-system/)
+> What we need is a library of aesthetic-and-technology-agnostic UI components that provides sturdy semantics and functionality while also providing a ton of aesthetic flexibility. […]  I think it would make sense for the Global Design System to be a **library of Web Components**.
+
 - [2023-10-23 — Ship Faster by Building Design Systems Slower | Big Medium](https://bradfrost.com/blog/link/ship-faster-by-building-design-systems-slower-big-medium/)
 - [2023-09-21 — The Design System Ecosystem ](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
 
@@ -30,6 +32,9 @@ and talks.
 - [Style Dictionnary](https://amzn.github.io/style-dictionary/)
   - [Style-Dictionary-Play](https://www.style-dictionary-play.dev/)
   - [Token Configurator](https://configurator.tokens.studio/)
+- [Cobalt CI](https://cobalt-ui.pages.dev/)
+- [Specify](https://specifyapp.com/)
+> Specify helps you generate design tokens that are always updated so you can transform them with Style Dictionary. Specify doesn’t replace Style Dictionary. It enhances it.
 
 ## Figma
 
@@ -292,10 +297,6 @@ md.sys.elevation.level1
 
 - [Backlight](https://backlight.dev/features#documentation) Design systems, code-side
   - [Best design system documentation sites](https://backlight.dev/mastery/the-best-design-system-documentation-sites)
-
-
-- [Specify](https://specifyapp.com/)
-> Specify helps you generate design tokens that are always updated so you can transform them with Style Dictionary. Specify doesn’t replace Style Dictionary. It enhances it.
 
 - [Knapsack](https://www.knapsack.cloud/)
 - [Storybook](https://storybook.js.org/)
