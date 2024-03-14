@@ -3,10 +3,8 @@
 ## Articles
 
 - [2024-01-09 — A Global Design System ](https://bradfrost.com/blog/post/a-global-design-system/)
-> What we need is a library of aesthetic-and-technology-agnostic UI components that provides sturdy semantics and functionality while also providing a ton of aesthetic flexibility. […]  I think it would make sense for the Global Design System to be a **library of Web Components**.
   - [2024-02-05 — Thoughts on a Global Design System](https://chriscoyier.net/2024/02/05/thoughts-on-a-global-design-system/)
   - [2024-03-13 — What’s Next for a Global Design System ](https://bradfrost.com/blog/post/whats-next-for-a-global-design-system/)
-
 - [2023-10-23 — Ship Faster by Building Design Systems Slower | Big Medium](https://bradfrost.com/blog/link/ship-faster-by-building-design-systems-slower-big-medium/)
 - [2023-09-21 — The Design System Ecosystem ](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
 
