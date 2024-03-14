@@ -4,7 +4,9 @@
 
 - [2024-01-09 — A Global Design System ](https://bradfrost.com/blog/post/a-global-design-system/)
 > What we need is a library of aesthetic-and-technology-agnostic UI components that provides sturdy semantics and functionality while also providing a ton of aesthetic flexibility. […]  I think it would make sense for the Global Design System to be a **library of Web Components**.
-- [2024-02-05 — Thoughts on a Global Design System](https://chriscoyier.net/2024/02/05/thoughts-on-a-global-design-system/)
+  - [2024-02-05 — Thoughts on a Global Design System](https://chriscoyier.net/2024/02/05/thoughts-on-a-global-design-system/)
+  - [2024-03-13 — What’s Next for a Global Design System ](https://bradfrost.com/blog/post/whats-next-for-a-global-design-system/)
+
 - [2023-10-23 — Ship Faster by Building Design Systems Slower | Big Medium](https://bradfrost.com/blog/link/ship-faster-by-building-design-systems-slower-big-medium/)
 - [2023-09-21 — The Design System Ecosystem ](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
 
@@ -20,6 +22,15 @@ and talks.
 - [Design Systems: Useful Examples and Resources](https://www.smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/)
 - [The Ultimate Design Systems Resources List](https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/)
 
+## Accessible Design Systems
+
+- [City of Helsinki DS](https://hds.hel.fi/)
+  - [Source](https://www.linkedin.com/posts/vitalyfriedman_ux-design-designsystems-activity-7141732128651694080-Dyh4/)
+- [Scottish Government DS](https://designsystem.gov.scot/)
+- [City of Calgary DS](https://summit.calgary.ca/components/forms-overview.html)
+- [Oslo’s design system](https://designmanual.oslo.kommune.no/)
+
+
 ## Pre-built Design Systems / UI Kits
 
 - [Reshaped](https://reshaped.so/) Design System in React & Figma
@@ -33,6 +44,7 @@ and talks.
   - [Style-Dictionary-Play](https://www.style-dictionary-play.dev/)
   - [Token Configurator](https://configurator.tokens.studio/)
 - [Cobalt CI](https://cobalt-ui.pages.dev/)
+- [Open Props](https://open-props.style/)
 - [Specify](https://specifyapp.com/)
 > Specify helps you generate design tokens that are always updated so you can transform them with Style Dictionary. Specify doesn’t replace Style Dictionary. It enhances it.
 
@@ -307,7 +319,6 @@ md.sys.elevation.level1
 
 - [Tools](https://designsystemsrepo.com/tools)
 - [Luro](https://luroapp.com/) Build and track your design system
-
 
 ## Resources
 
