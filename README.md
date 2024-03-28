@@ -31,8 +31,9 @@ and talks.
 
 ## Pre-built Design Systems / UI Kits
 
-- [Reshaped](https://reshaped.so/) Design System in React & Figma
-- [Untitled UI](https://www.untitledui.com/)
+- [★★★★☆ Reshaped](https://reshaped.so/) Design System in React & Figma
+- [★★★★☆ Untitled UI v4](https://www.untitledui.com/) by [Jordan Hughes](https://www.linkedin.com/in/jordanphughes/) (Australia)
+- [★★☆☆☆ UI Prep](https://www.uiprep.com/design-system-ui-kit-for-figma)
 
 ## Design Tokens
 
@@ -313,6 +314,12 @@ md.sys.elevation.level1
   - [Chromatic](https://www.chromatic.com)
     - Chromatic is a cloud-based toolchain for Storybook that helps teams ship UI components faster. It’s made by the team behind Storybook.
 
+
+## Multi-frameworks Design Systems
+
+- [NL Design System](https://github.com/nl-design-system/utrecht/tree/main/packages)
+
+
 ## Tools
 
 - [Tools](https://designsystemsrepo.com/tools)
@@ -322,3 +329,17 @@ md.sys.elevation.level1
 
 - [Sidebar, Category: Design Systems](https://sidebar.io/category/design-systems/aPHNJ3vudGEiJ7rwP)
 - [ROI Calculator](https://www.knapsack.cloud/calculator)
+
+
+## CSS System Colors
+
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color/#css-system-colors)
+
+```css
+body {
+  color: CanvasText;
+  background-color: Canvas;
+}
+```
+
+By default, CanvasText results in a color close to black and Canvas is a color that's close to white. The actual implementation depends on the browser. For example, CanvasText in Chrome results in #121212 whereas Safari has it specified as the slightly lighter #1e1e1e.
