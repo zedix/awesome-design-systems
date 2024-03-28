@@ -31,9 +31,9 @@ and talks.
 
 ## Pre-built Design Systems / UI Kits
 
-- [★★★★☆ Reshaped](https://reshaped.so/) Design System in React & Figma
-- [★★★★☆ Untitled UI v4](https://www.untitledui.com/) by [Jordan Hughes](https://www.linkedin.com/in/jordanphughes/) (Australia)
-- [★★☆☆☆ UI Prep](https://www.uiprep.com/design-system-ui-kit-for-figma)
+- ★★★★☆ [Reshaped](https://reshaped.so/) Design System in React & Figma
+- ★★★★☆ [Untitled UI v4](https://www.untitledui.com/) by [Jordan Hughes](https://www.linkedin.com/in/jordanphughes/) (Australia)
+- ★★☆☆☆ [UI Prep](https://www.uiprep.com/design-system-ui-kit-for-figma)
 
 ## Design Tokens
 
