@@ -1,5 +1,9 @@
 # Awesome Design Systems
 
+- [What is a Design System?](https://danmall.com/posts/what-is-a-design-system/) 6 different types of design systems.
+
+> A design system is a comprehensive set of guidelines, principles, and components that ensure consistency and efficiency across a company’s digital products.
+
 ## Articles
 
 - [2024-01-09 — A Global Design System ](https://bradfrost.com/blog/post/a-global-design-system/)
@@ -329,7 +333,11 @@ md.sys.elevation.level1
 
 - [Sidebar, Category: Design Systems](https://sidebar.io/category/design-systems/aPHNJ3vudGEiJ7rwP)
 - [ROI Calculator](https://www.knapsack.cloud/calculator)
+- [Config 2024: The broken promises of design systems (Cam Worboys, Head of Design, OS at Cash App)](https://www.youtube.com/watch?v=BQXTt-NZ2Bs)
 
+## Conferences
+
+- [Clarity conf](https://www.clarityconf.com/)
 
 ## CSS System Colors
 
