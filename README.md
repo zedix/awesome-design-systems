@@ -17,6 +17,7 @@
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
 - [Design Systems Gallery](https://component.gallery/design-systems/)
 - [Design Systems Repo](https://designsystemsrepo.com/) A frequently updated collection of Design System examples, articles, tools
+- [Public Design Systems](https://thedesignsystem.guide/public-design-systems-list)
 - [Design Systems Resources](http://styleguides.io/examples.html) (via Brad Frost)
 - [Design Systems List](https://adele.uxpin.com/) Maintained by Marcin Treder
 and talks.
@@ -31,6 +32,7 @@ and talks.
 - [Scottish Government DS](https://designsystem.gov.scot/)
 - [City of Calgary DS](https://summit.calgary.ca/components/forms-overview.html)
 - [Oslo’s design system](https://designmanual.oslo.kommune.no/)
+- [GOV.UK Design System](https://design-system.service.gov.uk/components/error-message/)
 
 
 ## Pre-built Design Systems / UI Kits
