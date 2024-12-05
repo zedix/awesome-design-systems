@@ -16,6 +16,7 @@
 
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
 - [Design Systems Gallery](https://component.gallery/design-systems/)
+  - [Naming components](https://component.gallery/components/)
 - [Design Systems Repo](https://designsystemsrepo.com/) A frequently updated collection of Design System examples, articles, tools
 - [Public Design Systems](https://thedesignsystem.guide/public-design-systems-list)
 - [Design Systems Resources](http://styleguides.io/examples.html) (via Brad Frost)
@@ -48,13 +49,16 @@ and talks.
 - [Style Dictionnary](https://amzn.github.io/style-dictionary/)
   - [Style-Dictionary-Play](https://www.style-dictionary-play.dev/)
   - [Token Configurator](https://configurator.tokens.studio/)
+- [HandOff](https://www.handoff.com/)
 - [Cobalt CI](https://cobalt-ui.pages.dev/)
+- [Terrazzo](https://github.com/terrazzoapp/)
 - [Open Props](https://open-props.style/)
-- [Specify](https://specifyapp.com/)
+- [Specify](https://specifyapp.com/) - [Sunseting](https://specifyapp.com/blog/the-end-of-specify)
 > Specify helps you generate design tokens that are always updated so you can transform them with Style Dictionary. Specify doesn’t replace Style Dictionary. It enhances it.
 
 ## Figma
 
+- [GetDS](https://getds.pro/) by Tomas Francisco
 - [Tokens Studio for Figma](https://tokens.studio/)
 - [Synchronizing Figma variables with Design Tokens](https://medium.com/@NateBaldwin/synchronizing-figma-variables-with-design-tokens-3a6c6adbf7da)
 
@@ -299,6 +303,39 @@ md.sys.elevation.level1
 - [Naming in Captiv8](https://medium.com/@slava.karablikov/implementing-color-design-tokens-practical-guide-2ee1d46a1392)
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*pAQVP7CcKIvmsevXbh9tIg.png" height="400" />
 
+
+## Design System Typography
+
+- [Polaris](https://polaris.shopify.com/whats-new/version-10-typography#why-one-type-scale)
+
+<img src="https://polaris.shopify.com/images/updates/type-responsive-styles@2x.png" height="380" />
+
+- [Vercel Geist](https://vercel.com/geist/text#responsive-variants)
+
+```jsx
+<Text variant={{ sm: 'heading-24', md: 'heading-32', lg: 'heading-48' }}>
+  Responsive Heading
+</Text>
+```
+
+- [Pajamas Design System](https://design.gitlab.com/product-foundations/type-headings)
+
+```css
+.gl-heading-display {
+  font-size: clamp(1.75rem, .8611111111rem + 1.8518518519vw, 2.25rem);
+  line-height: 1.125;
+  margin-bottom: 1.5rem;
+}
+```
+
+- [Helsinki Design System](https://hds.hel.fi/foundation/design-tokens/typography/#heading-scales)
+- [DuetDS](https://www.duetds.com/typography/#type-scale) - Default desktop (optout responsive headings)
+
+```jsx
+<Heading level="h1" fixedSize={false}>
+  Responsive Heading
+</Heading>
+```
 
 
 ## Design Systems Documentation
