@@ -306,9 +306,15 @@ md.sys.elevation.level1
 
 ## Design System Typography
 
+- [Carbon](https://carbon-elements.netlify.app/type/examples/preview/)
+- [Material 3](https://github.com/material-foundation/material-tokens/blob/main/css/typography.css)
 - [Polaris](https://polaris.shopify.com/whats-new/version-10-typography#why-one-type-scale)
 
 <img src="https://polaris.shopify.com/images/updates/type-responsive-styles@2x.png" height="380" />
+
+- [Spectrum](https://spectrum.adobe.com/page/heading/) - [Source](https://github.com/adobe/spectrum-css/blob/main/components/typography/index.css)
+
+<img src="https://spectrum.adobe.com/static/images1x/heading_options_size@2x_1649377884640.png" height="380" />
 
 - [Vercel Geist](https://vercel.com/geist/text#responsive-variants)
 
