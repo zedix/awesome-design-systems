@@ -19,12 +19,37 @@
   - [Naming components](https://component.gallery/components/)
 - [Design Systems Repo](https://designsystemsrepo.com/) A frequently updated collection of Design System examples, articles, tools
 - [Public Design Systems](https://thedesignsystem.guide/public-design-systems-list)
+- [Liste des Design Systems Français](https://designsystems.fr/liste-des-design-systems-francais)
 - [Design Systems Resources](http://styleguides.io/examples.html) (via Brad Frost)
 - [Design Systems List](https://adele.uxpin.com/) Maintained by Marcin Treder
 and talks.
 - [Design Systems For Figma](https://www.designsystemsforfigma.com/) Curated by Josh Cusick, the site is a growing repository of freely available Figma kits
 - [Design Systems: Useful Examples and Resources](https://www.smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/)
 - [The Ultimate Design Systems Resources List](https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/)
+
+## Top Web Components Design Systems
+
+- [Porsche Design System v3](https://designsystem.porsche.com/v3/) Stencil, Sass, Webpack
+- [Nord Design System](https://nordhealth.design/)
+
+```css
+--pds-primary-color: #010205;
+--pds-background-base-color: #FFF;
+--pds-background-surface-color: #EEEFF2;
+--pds-background-shading-color: rgba(1,2,5,0.67);
+--pds-contrast-low-color: #D8D8DB;
+--pds-contrast-medium-color: #6B6D70;
+--pds-contrast-high-color: #535457;
+--pds-notification-success-color: #197E10;
+--pds-notification-warning-color: #F3BE00;
+--pds-notification-error-color: #CC1922;
+--pds-notification-info-color: #2762EC;
+--pds-state-hover-color: rgba(148,149,152,.18);
+--pds-state-active-color: rgba(148,149,152,0.20);
+--pds-state-focus-color: #1A44EA;
+--pds-state-disabled-color: #949598;
+```
+
 
 ## Accessible Design Systems
 
@@ -46,6 +71,7 @@ and talks.
 
 - [Awesome Design Tokens](https://github.com/sturobson/Awesome-Design-Tokens)
 - [Design Tokens Guide](https://thedesignsystem.guide/design-tokens)
+- [Design Token Structure Generator](https://namedesigntokens.guide/)
 - [Style Dictionnary](https://amzn.github.io/style-dictionary/)
   - [Style-Dictionary-Play](https://www.style-dictionary-play.dev/)
   - [Token Configurator](https://configurator.tokens.studio/)
@@ -343,6 +369,10 @@ md.sys.elevation.level1
 </Heading>
 ```
 
+- [Unique Scale](https://medium.com/design-bootcamp/type-scale-unleashed-harnessing-the-raw-power-of-harmonious-letterforms-in-design-systems-b837eeec350b)
+> What about responsiveness? Regarding the ratio to use, feel free to choose the one you prefer. It can be the same one used initially.
+- [Creating Type Scales for a Design System](https://youtu.be/nGv9iDuV09c?t=302)
+
 
 ## Design Systems Documentation
 
@@ -363,6 +393,10 @@ md.sys.elevation.level1
   - [Chromatic](https://www.chromatic.com)
     - Chromatic is a cloud-based toolchain for Storybook that helps teams ship UI components faster. It’s made by the team behind Storybook.
 
+## Great Storybooks
+
+- [Microsoft Fabric UX System](https://ambitious-cliff-0c8148010.2.azurestaticapps.net/?path=/docs/overview-home--docs)
+
 
 ## Multi-frameworks Design Systems
 
@@ -373,6 +407,8 @@ md.sys.elevation.level1
 
 - [Tools](https://designsystemsrepo.com/tools)
 - [Luro](https://luroapp.com/) Build and track your design system
+- [Relume](https://www.relume.io/)
+- [Penpot](https://penpot.app/)
 
 ## Resources
 
@@ -396,3 +432,9 @@ body {
 ```
 
 By default, CanvasText results in a color close to black and Canvas is a color that's close to white. The actual implementation depends on the browser. For example, CanvasText in Chrome results in #121212 whereas Safari has it specified as the slightly lighter #1e1e1e.
+
+## Native HTML/CSS - no JS
+
+- [Why Are We Still Rebuilding Buttons?](https://www.linkedin.com/pulse/why-we-still-rebuilding-buttons-chase-aucoin-ochvc/?trackingId=EPA2rt5TSIMUkDve19KGCw%3D%3D)
+
+> There should be a theme layer, native and abstracted, that lets designers make visual decisions without writing code, and lets developers apply those decisions without a plugin.
