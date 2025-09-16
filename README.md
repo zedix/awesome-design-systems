@@ -53,12 +53,14 @@ and talks.
 
 ## Accessible Design Systems
 
+- [Système de Design de l’État 🇫🇷](https://www.systeme-de-design.gouv.fr/version-courante/fr/composants)
+- [GOV.UK Design System 🇬🇧](https://design-system.service.gov.uk/components/error-message/)
+- [US Web Design System 🇺🇸](https://designsystem.digital.gov/components/date-picker/accessibility-tests/#keyboard-navigation-tests-2)
 - [City of Helsinki DS](https://hds.hel.fi/)
   - [Source](https://www.linkedin.com/posts/vitalyfriedman_ux-design-designsystems-activity-7141732128651694080-Dyh4/)
 - [Scottish Government DS](https://designsystem.gov.scot/)
 - [City of Calgary DS](https://summit.calgary.ca/components/forms-overview.html)
 - [Oslo’s design system](https://designmanual.oslo.kommune.no/)
-- [GOV.UK Design System](https://design-system.service.gov.uk/components/error-message/)
 
 
 ## Pre-built Design Systems / UI Kits
@@ -87,6 +89,7 @@ and talks.
 - [GetDS](https://getds.pro/) by Tomas Francisco
 - [Tokens Studio for Figma](https://tokens.studio/)
 - [Synchronizing Figma variables with Design Tokens](https://medium.com/@NateBaldwin/synchronizing-figma-variables-with-design-tokens-3a6c6adbf7da)
+- [Figma SDS with Stencil + Code Connect](https://github.com/onenorth/sds/tree/main/packages/sds-figma-code-connect)
 
 ## Design Tokens Naming
 
@@ -409,6 +412,7 @@ md.sys.elevation.level1
 - [Luro](https://luroapp.com/) Build and track your design system
 - [Relume](https://www.relume.io/)
 - [Penpot](https://penpot.app/)
+- [Webstudio](https://webstudio.is/)
 
 ## Resources
 
