@@ -53,15 +53,17 @@ and talks.
 
 ## Accessible Design Systems
 
+- [Design Systems Checklist (accessibility)](https://tylercoderre.com/projects/design-systems-checklist.html)
 - [Système de Design de l’État 🇫🇷](https://www.systeme-de-design.gouv.fr/version-courante/fr/composants)
 - [GOV.UK Design System 🇬🇧](https://design-system.service.gov.uk/components/error-message/)
 - [US Web Design System 🇺🇸](https://designsystem.digital.gov/components/date-picker/accessibility-tests/#keyboard-navigation-tests-2)
+  - [Text input accessibility tests](https://designsystem.digital.gov/components/text-input/accessibility-tests/)
 - [City of Helsinki DS](https://hds.hel.fi/)
   - [Source](https://www.linkedin.com/posts/vitalyfriedman_ux-design-designsystems-activity-7141732128651694080-Dyh4/)
 - [Scottish Government DS](https://designsystem.gov.scot/)
 - [City of Calgary DS](https://summit.calgary.ca/components/forms-overview.html)
 - [Oslo’s design system](https://designmanual.oslo.kommune.no/)
-
+- [How to annotate design system components for accessibility](https://zeroheight.com/blog/how-to-annotate-design-system-components-for-accessibility/)
 
 ## Pre-built Design Systems / UI Kits
 
@@ -71,6 +73,7 @@ and talks.
 
 ## Design Tokens
 
+- [Tokenpedia](https://tokenpedia.ds.house/terms/delimiter/)
 - [Awesome Design Tokens](https://github.com/sturobson/Awesome-Design-Tokens)
 - [Design Tokens Guide](https://thedesignsystem.guide/design-tokens)
 - [Design Token Structure Generator](https://namedesigntokens.guide/)
@@ -90,6 +93,10 @@ and talks.
 - [Tokens Studio for Figma](https://tokens.studio/)
 - [Synchronizing Figma variables with Design Tokens](https://medium.com/@NateBaldwin/synchronizing-figma-variables-with-design-tokens-3a6c6adbf7da)
 - [Figma SDS with Stencil + Code Connect](https://github.com/onenorth/sds/tree/main/packages/sds-figma-code-connect)
+
+## Patterns
+
+- [ReUI](https://reui.io/patterns) Shadcn UI Patterns
 
 ## Design Tokens Naming
 
@@ -399,7 +406,7 @@ md.sys.elevation.level1
 ## Great Storybooks
 
 - [Microsoft Fabric UX System](https://ambitious-cliff-0c8148010.2.azurestaticapps.net/?path=/docs/overview-home--docs)
-
+- [Monday Vibe](https://vibe.monday.com/?path=/docs/components-avatar--docs)
 
 ## Multi-frameworks Design Systems
 
