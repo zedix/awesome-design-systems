@@ -14,6 +14,8 @@
 
 ## Collection of Design Systems (Showcases)
 
+- [Design Systems Surf](https://designsystems.surf/)
+- [Design Systems Cookbooks](https://www.designsystemcookbooks.com/)
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
 - [Design Systems Gallery](https://component.gallery/design-systems/)
   - [Naming components](https://component.gallery/components/)
@@ -27,10 +29,14 @@ and talks.
 - [Design Systems: Useful Examples and Resources](https://www.smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/)
 - [The Ultimate Design Systems Resources List](https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/)
 
-## Top Web Components Design Systems
+## Collection of Design Systems (France)
 
-- [Porsche Design System v3](https://designsystem.porsche.com/v3/) Stencil, Sass, Webpack
+- [Carefour](https://carrefour.design/328eff0d7/p/95857f-welcome-to-carrefourdesign)
+
+## Collection of Design Systems (Web Components)
+
 - [Nord Design System](https://nordhealth.design/)
+- [Porsche Design System v3](https://designsystem.porsche.com/v3/) Stencil, Sass, Webpack
 
 ```css
 --pds-primary-color: #010205;
@@ -65,6 +71,13 @@ and talks.
 - [Oslo’s design system](https://designmanual.oslo.kommune.no/)
 - [How to annotate design system components for accessibility](https://zeroheight.com/blog/how-to-annotate-design-system-components-for-accessibility/)
 
+## AI-ready Design Systems
+
+- [State of AI in Design Systems (2026)](https://state-of-ai-in-design-systems.netlify.app/)
+    - [Source](https://www.linkedin.com/posts/vitalyfriedman_ux-ai-share-7491408139117064193-wkMp/)
+- [Facebook Astryx](https://astryx.atmeta.com/) An open source design system that's fully customizable and agent ready
+
+
 ## Pre-built Design Systems / UI Kits
 
 - ★★★★☆ [Reshaped](https://reshaped.so/) Design System in React & Figma
@@ -97,6 +110,17 @@ and talks.
 ## Patterns
 
 - [ReUI](https://reui.io/patterns) Shadcn UI Patterns
+
+## Design Systems & AI
+
+- [The trick to AI prototyping with your design system](https://www.youtube.com/watch?v=CqMZTg7L-wE)
+- [Monday.com Design Process](https://www.youtube.com/watch?v=7jeocy9IN1M&t=2015s)
+- [Intercom Design Process](https://www.youtube.com/watch?v=_9OdGDjFrCw)
+
+## Design System with OKLCH + color-mix
+
+- https://karlkoch.me/writing/on-oklch
+
 
 ## Design Tokens Naming
 
